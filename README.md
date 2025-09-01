@@ -2,7 +2,9 @@
 
 Published on IPFS and timestamped on https://opentimestamps.org: 
 
-**Whitepaper**: [https://ipfs.io/ipfs/bafybeia2ppirvnwim55adybnqp5zgfwikfz2tvwdb5hmgdbjkoe6rr6ffe/](https://ipfs.io/ipfs/bafybeia2ppirvnwim55adybnqp5zgfwikfz2tvwdb5hmgdbjkoe6rr6ffe/)
+**Whitepaper**: [https://lavender-fashionable-fish-488.mypinata.cloud/ipfs/bafybeicigditswburszuxjfpceg63nzuifgex3mb7xc2gqdx46tqiqco7y/
+]([https://ipfs.io/ipfs/bafybeia2ppirvnwim55adybnqp5zgfwikfz2tvwdb5hmgdbjkoe6rr6ffe/](https://lavender-fashionable-fish-488.mypinata.cloud/ipfs/bafybeicigditswburszuxjfpceg63nzuifgex3mb7xc2gqdx46tqiqco7y/
+))
 
 **OPoC**: [https://ipfs.io/ipfs/QmWtXkm8NfUtzPE4DLStfDChbnannfm5yq6hUcJpppzPqk/](https://ipfs.io/ipfs/Qme5KabDnKMdEEBAF7P6Vp75ocWjunnyEKzEc3zkZM4Vvs)
 
